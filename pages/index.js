@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <iframe
-          src="https://map.lodestone.quest:8123/"
+          src="http://map.lodestone.quest:8123/"
           width="100%"
           height="100%"
         >
