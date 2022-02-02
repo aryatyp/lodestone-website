@@ -6,15 +6,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Lodestone's Map!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <iframe
-          src="http://map.lodestone.quest:8123/"
+          src="https://map.lodestone.quest:8123/"
           width="100%"
-          height="1200"
+          height="100%"
         >
           <p>Your browser does not support iframes.</p>
         </iframe>
